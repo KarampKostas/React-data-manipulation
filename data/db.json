@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "George",
+      "surname": "Georgiadis",
+      "details": "Product Manager",
+      "id": 6
+    },
+    {
+      "name": "Kostas",
+      "surname": "Karampinas",
+      "details": "Developer",
+      "id": 8
+    },
+    {
+      "name": "Manos",
+      "surname": "Gionanidis",
+      "details": "",
+      "id": 9
+    }
+  ]
+}
